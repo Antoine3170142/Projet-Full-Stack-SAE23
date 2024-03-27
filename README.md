@@ -3,7 +3,7 @@ Lors de ma première année de BUT Réseaux &amp; Télécommunications, j'ai dé
 
 ## Comment utiliser les fichiers :
 
-1. Pour **lancer** la partie frontend aller dans le dossier et taper ça dans le terminal:
+1. Pour **lancer** la partie frontend, aller dans le dossier et taper ça dans le terminal:
 
       `npm run start`
 
@@ -11,7 +11,7 @@ Lors de ma première année de BUT Réseaux &amp; Télécommunications, j'ai dé
 
       `npm install -g nodemon`
 
-3. Pour **Lancer** nodemon sur le backend:
+3. Pour **Lancer** nodemon sur le backend, aller dans le dossier et taper ça dans le terminal:
 
       `nodemon server`
 
