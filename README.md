@@ -6,7 +6,7 @@ Durant ma première année de BUT en Réseaux & Télécommunications, j'ai déve
 
 ### Importer la partie frontend (que je n'ai absolument pas modifiée et qui ne fait pas partie du projet) :
 
-      `git clone https://github.com/etu-iut-uca/frontend.git frontend`
+      git clone https://github.com/etu-iut-uca/frontend.git frontend
       
 
 ### Lancer les parties frontend et backend :
