@@ -5,16 +5,16 @@ Lors de ma première année de BUT Réseaux &amp; Télécommunications, j'ai dé
 
 1. Pour **lancer** la partie frontend aller dans le dossier et taper ça dans le terminal:
 
-  `npm run start`
+      `npm run start`
 
 2. Pour installer la fonction nodemon:
 
-  `npm install -g nodemon`
+      `npm install -g nodemon`
 
 3. Pour **Lancer** nodemon sur le backend:
 
-  `nodemon server`
+      `nodemon server`
 
 4. Pour ajouter **Express** à votre projet, exécutez la commande suivante dans un terminal à partir de votre dossier backend:
 
-  `npm install express`
+      `npm install express`
