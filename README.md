@@ -3,6 +3,9 @@ Lors de ma première année de BUT Réseaux &amp; Télécommunications, j'ai dé
 
 ## Comment utiliser les fichiers :
 
+
+# Lancer les parties frontend et backend :
+
 1. Pour **lancer** la partie frontend, aller dans le dossier et taper ça dans le terminal:
 
       `npm run start`
