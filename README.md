@@ -1,4 +1,4 @@
-# Projet-Full-Stack-SAE23
+# _Projet-Full-Stack-SAE23_
 
 Durant ma première année de BUT en Réseaux & Télécommunications, j'ai développé le backend de ce projet qui gère des tickets en utilisant Node.js, Express et MongoDB.
 
